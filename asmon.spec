@@ -10,7 +10,6 @@ Group:		X11/Window Managers/Tools
 BuildRequires:	XFree86-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 A system monitor for Linux that monitors CPU usage, memory usage, load
