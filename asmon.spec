@@ -1,4 +1,4 @@
-Summary:	Window Maker  memory/swap/IO/uptime/ints monitor
+Summary:	Window Maker memory/swap/IO/uptime/ints monitor
 Summary(pl):	Monitor systemu dla WindowMakera
 Name:		asmon
 Version:	0.60
@@ -30,7 +30,7 @@ pamiêci, obci±¿enie systemu, oraz podaje uptime.
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT{%{_bindir},%{_applnkdir}/DockApplets}
 
-install asmon/asmon       $RPM_BUILD_ROOT%{_bindir}
+install asmon/asmon $RPM_BUILD_ROOT%{_bindir}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
