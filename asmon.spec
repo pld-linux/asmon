@@ -5,6 +5,7 @@ Version:	0.60
 Release:	1
 License:	GPL
 Source0:	http://www.cs.mun.ca/~gstarkes/wmaker/dockapps/files/%{name}-%{version}.tar.gz
+# Source0-md5:	781d273283b307b5089afbfa6aa35f18
 URL:		http://www.cs.mun.ca/~gstarkes/wmaker/dockapps/sys.html#asmon
 Group:		X11/Window Managers/Tools
 BuildRequires:	XFree86-devel
