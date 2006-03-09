@@ -24,7 +24,7 @@ pamiêci, obci±¿enie systemu, oraz podaje uptime.
 
 %build
 %{__make} -C asmon \
-	CC=%{__cc}
+	CC="%{__cc}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
