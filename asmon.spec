@@ -1,5 +1,5 @@
 Summary:	Window Maker memory/swap/IO/uptime/ints monitor
-Summary(pl):	Monitor systemu dla WindowMakera
+Summary(pl.UTF-8):   Monitor systemu dla WindowMakera
 Name:		asmon
 Version:	0.60
 Release:	1
@@ -15,9 +15,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A system monitor for Linux that monitors CPU usage, memory usage, load
 average, and uptime.
 
-%description -l pl
-Monitor systemu dla WindowMakera. Monitoruje u¿ycie procesora,
-pamiêci, obci±¿enie systemu, oraz podaje uptime.
+%description -l pl.UTF-8
+Monitor systemu dla WindowMakera. Monitoruje uÅ¼ycie procesora,
+pamiÄ™ci, obciÄ…Å¼enie systemu, oraz podaje uptime.
 
 %prep
 %setup -q
