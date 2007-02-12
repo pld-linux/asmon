@@ -1,5 +1,5 @@
 Summary:	Window Maker memory/swap/IO/uptime/ints monitor
-Summary(pl.UTF-8):   Monitor systemu dla WindowMakera
+Summary(pl.UTF-8):	Monitor systemu dla WindowMakera
 Name:		asmon
 Version:	0.60
 Release:	1
